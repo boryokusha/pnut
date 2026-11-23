@@ -1,0 +1,24 @@
+{
+  "name": "Tokyo Night",
+  "author": "enkia",
+  "description": "Tokyo gecelerinden ilham alan koyu mavi tema",
+  "colors": {
+    "bg":               "#1a1b26",
+    "fg":               "#c0caf5",
+    "header":           "#bb9af7",
+    "active":           "#9ece6a",
+    "playing":          "#e0af68",
+    "error":            "#f7768e",
+    "cursor_fg":        "#1a1b26",
+    "cursor_bg":        "#7aa2f7",
+    "normal":           "#a9b1d6",
+    "border":           "#3b4261",
+    "tab_active_fg":    "#1a1b26",
+    "tab_active_bg":    "#7aa2f7",
+    "progress":         "#7dcfff",
+    "search":           "#e0af68",
+    "modal_fg":         "#c0caf5",
+    "modal_bg":         "#24283b",
+    "modal_title":      "#7dcfff"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Catppuccin Mocha",
+  "author": "catppuccin",
+  "description": "Soothing pastel theme — ricing topluluğunun favorisi",
+  "colors": {
+    "bg":               "#1e1e2e",
+    "fg":               "#cdd6f4",
+    "header":           "#cba6f7",
+    "active":           "#a6e3a1",
+    "playing":          "#f9e2af",
+    "error":            "#f38ba8",
+    "cursor_fg":        "#1e1e2e",
+    "cursor_bg":        "#89b4fa",
+    "normal":           "#cdd6f4",
+    "border":           "#585b70",
+    "tab_active_fg":    "#1e1e2e",
+    "tab_active_bg":    "#89b4fa",
+    "progress":         "#89b4fa",
+    "search":           "#f9e2af",
+    "modal_fg":         "#cdd6f4",
+    "modal_bg":         "#313244",
+    "modal_title":      "#cba6f7"
+  }
+}

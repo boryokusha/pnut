@@ -1,0 +1,24 @@
+{
+  "name": "Rosé Pine",
+  "author": "rose-pine",
+  "description": "Doğal çam ve gül tonları — dinlendirici ve zarif ricing paleti",
+  "colors": {
+    "bg":               "#191724",
+    "fg":               "#e0def4",
+    "header":           "#ebbcba",
+    "active":           "#9ccfd8",
+    "playing":          "#f6c177",
+    "error":            "#eb6f92",
+    "cursor_fg":        "#191724",
+    "cursor_bg":        "#c4a7e7",
+    "normal":           "#e0def4",
+    "border":           "#26233a",
+    "tab_active_fg":    "#191724",
+    "tab_active_bg":    "#ebbcba",
+    "progress":         "#31748f",
+    "search":           "#f6c177",
+    "modal_fg":         "#e0def4",
+    "modal_bg":         "#21202e",
+    "modal_title":      "#ebbcba"
+  }
+}

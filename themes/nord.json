@@ -1,0 +1,24 @@
+{
+  "name": "Nord",
+  "author": "arcticicestudio",
+  "description": "Arktik, mavi tonlu renk paleti — temiz ve sakin",
+  "colors": {
+    "bg":               "#2e3440",
+    "fg":               "#eceff4",
+    "header":           "#b48ead",
+    "active":           "#a3be8c",
+    "playing":          "#ebcb8b",
+    "error":            "#bf616a",
+    "cursor_fg":        "#2e3440",
+    "cursor_bg":        "#88c0d0",
+    "normal":           "#d8dee9",
+    "border":           "#4c566a",
+    "tab_active_fg":    "#2e3440",
+    "tab_active_bg":    "#88c0d0",
+    "progress":         "#81a1c1",
+    "search":           "#ebcb8b",
+    "modal_fg":         "#eceff4",
+    "modal_bg":         "#3b4252",
+    "modal_title":      "#88c0d0"
+  }
+}

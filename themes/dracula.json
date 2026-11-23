@@ -1,0 +1,24 @@
+{
+  "name": "Dracula",
+  "author": "dracula",
+  "description": "Karanlık tema — canlı ve yüksek kontrastlı vurgularla",
+  "colors": {
+    "bg":               "#282a36",
+    "fg":               "#f8f8f2",
+    "header":           "#bd93f9",
+    "active":           "#50fa7b",
+    "playing":          "#f1fa8c",
+    "error":            "#ff5555",
+    "cursor_fg":        "#282a36",
+    "cursor_bg":        "#8be9fd",
+    "normal":           "#f8f8f2",
+    "border":           "#6272a4",
+    "tab_active_fg":    "#282a36",
+    "tab_active_bg":    "#bd93f9",
+    "progress":         "#ff79c6",
+    "search":           "#f1fa8c",
+    "modal_fg":         "#f8f8f2",
+    "modal_bg":         "#44475a",
+    "modal_title":      "#bd93f9"
+  }
+}

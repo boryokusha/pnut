@@ -1,0 +1,24 @@
+{
+  "name": "Gruvbox Dark",
+  "author": "morhetz",
+  "description": "Retro groove renk şeması — sıcak ve yumuşak kontrastlar",
+  "colors": {
+    "bg":               "#282828",
+    "fg":               "#ebdbb2",
+    "header":           "#d3869b",
+    "active":           "#b8bb26",
+    "playing":          "#fabd2f",
+    "error":            "#fb4934",
+    "cursor_fg":        "#282828",
+    "cursor_bg":        "#83a598",
+    "normal":           "#ebdbb2",
+    "border":           "#504945",
+    "tab_active_fg":    "#282828",
+    "tab_active_bg":    "#83a598",
+    "progress":         "#83a598",
+    "search":           "#fabd2f",
+    "modal_fg":         "#ebdbb2",
+    "modal_bg":         "#3c3836",
+    "modal_title":      "#d3869b"
+  }
+}

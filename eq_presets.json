@@ -1,0 +1,60 @@
+{
+  "presets": [
+    {
+      "id": "waner_harman",
+      "name": "Tangzu Wan'er SG - Harman AutoEQ",
+      "description": "Crinacle/Harman 2019 IEM Target optimizasyonu",
+      "preamp_db": -5.3,
+      "filters": [
+        {"type": "lowshelf", "freq": 105, "q": 0.70, "gain": -0.1},
+        {"type": "peaking", "freq": 178, "q": 0.96, "gain": -2.4},
+        {"type": "peaking", "freq": 753, "q": 1.31, "gain": 1.6},
+        {"type": "peaking", "freq": 1820, "q": 1.45, "gain": -1.9},
+        {"type": "peaking", "freq": 6154, "q": 2.16, "gain": 5.4}
+      ]
+    },
+    {
+      "id": "waner_bass_boost",
+      "name": "Tangzu Wan'er SG - Warm & Bass Boost",
+      "description": "Sıcak vokal ve dolgun bas profili",
+      "preamp_db": -6.0,
+      "filters": [
+        {"type": "lowshelf", "freq": 80, "q": 0.70, "gain": 3.5},
+        {"type": "peaking", "freq": 200, "q": 1.0, "gain": -1.5},
+        {"type": "peaking", "freq": 1000, "q": 1.2, "gain": 1.0},
+        {"type": "peaking", "freq": 2500, "q": 1.5, "gain": -1.0},
+        {"type": "peaking", "freq": 6000, "q": 2.0, "gain": 3.0}
+      ]
+    },
+    {
+      "id": "v_shape",
+      "name": "Energetic V-Shape",
+      "description": "Dinamik baslar ve parıltılı tizler",
+      "preamp_db": -4.5,
+      "filters": [
+        {"type": "lowshelf", "freq": 100, "q": 0.70, "gain": 3.0},
+        {"type": "peaking", "freq": 1000, "q": 1.0, "gain": -1.5},
+        {"type": "highshelf", "freq": 8000, "q": 0.70, "gain": 3.5}
+      ]
+    },
+    {
+      "id": "vocal_clarity",
+      "name": "Vocal & Acoustic Focus",
+      "description": "Akustik enstrüman ve vokal netliği",
+      "preamp_db": -3.5,
+      "filters": [
+        {"type": "lowshelf", "freq": 100, "q": 0.8, "gain": -1.5},
+        {"type": "peaking", "freq": 1200, "q": 1.4, "gain": 2.0},
+        {"type": "peaking", "freq": 3500, "q": 1.8, "gain": 1.5},
+        {"type": "highshelf", "freq": 10000, "q": 0.7, "gain": 2.0}
+      ]
+    },
+    {
+      "id": "flat",
+      "name": "Direct / Bit-Perfect (Flat Bypass)",
+      "description": "Tüm EQ filtreleri kapalı, saf bit-perfect ses",
+      "preamp_db": 0.0,
+      "filters": []
+    }
+  ]
+}

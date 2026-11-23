@@ -1,0 +1,24 @@
+{
+  "name": "Default",
+  "author": "flac_player",
+  "description": "Varsayılan cyan/green/yellow terminal şeması",
+  "colors": {
+    "bg":               "terminal",
+    "fg":               "#ffffff",
+    "header":           "#00cccc",
+    "active":           "#00cc00",
+    "playing":          "#cccc00",
+    "error":            "#cc0000",
+    "cursor_fg":        "#000000",
+    "cursor_bg":        "#00cccc",
+    "normal":           "#ffffff",
+    "border":           "#5555ff",
+    "tab_active_fg":    "#000000",
+    "tab_active_bg":    "#cccc00",
+    "progress":         "#00cccc",
+    "search":           "#cccc00",
+    "modal_fg":         "#000000",
+    "modal_bg":         "#00cccc",
+    "modal_title":      "#000000"
+  }
+}
